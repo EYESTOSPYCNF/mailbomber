@@ -30,7 +30,7 @@ const runProgram = () => {
   let threadList = []
   let success = 10000;
   let fail = 10;
-  let email = "joel@jungkeim.de"
+  let email = "example@mail.com"
 
   class Newsletter {
     constructor(i) {
