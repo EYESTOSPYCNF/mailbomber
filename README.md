@@ -14,8 +14,8 @@ Make sure you have Node.js installed on your system before starting.
 1. **Clone the repository from GitHub:**
 
     ```bash
-    git clone https://github.com/your-username/my-nodejs-project.git
-    cd my-nodejs-project
+    git clone https://github.com/EYESTOSPYCNF/mailbomber.git
+    cd mailbomber
     ```
 
 2. **Install dependencies:**
